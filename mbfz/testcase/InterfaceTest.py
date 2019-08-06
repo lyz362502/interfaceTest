@@ -9,8 +9,8 @@ import unittest
 import time
 import random
 import string
-from util.testMd5 import TestMd5
-from util.GetToken import get_token, login
+from common.testMd5 import TestMd5
+from common.GetToken import get_token, login
 import json
 
 

@@ -12,7 +12,7 @@ import unittest
 import time
 import random
 import requests
-from util.testDes import TestDes
+from common.testDes import TestDes
 
 
 class encryptToken1(unittest.TestCase):

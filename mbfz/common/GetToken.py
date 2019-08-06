@@ -8,7 +8,7 @@ import unittest
 import json
 import os
 import requests
-from util.testDes import TestDes
+from common.testDes import TestDes
 
 
 def login():
